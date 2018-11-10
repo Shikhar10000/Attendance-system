@@ -7,10 +7,15 @@ This is completly based on deep learning nueral network and implented using Tens
 # Installation Python Libraries:
 
 tensorflow (1.4.0)
+
 scipy (0.17.0)
+
 scikit-learn (0.19.1)
+
 Opencv (2.4.9.1)
+
 pyrebase
+
 flask
 
 # Implementation
