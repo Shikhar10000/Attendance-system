@@ -12,7 +12,12 @@ import tensorflow as tf
 from scipy import misc
 
 import pyrebase
-config = {'apiKey': 'AIzaSyAPZpriTOWoRQ4jTSTxf6jSdo-WQ6JSZXw', 'authDomain': 'testattendance-c9844.firebaseapp.com', 'databaseURL': 'https://testattendance-c9844.firebaseio.com','storageBucket': 'testattendance-c9844.appspot.com'}
+config = {
+  "apiKey": "apiKey",
+  "authDomain": "projectId.firebaseapp.com",
+  "databaseURL": "https://databaseName.firebaseio.com",
+  "storageBucket": "projectId.appspot.com"
+}
 
 firebase = pyrebase.initialize_app(config)
 
