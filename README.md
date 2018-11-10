@@ -19,6 +19,8 @@ pyrebase
 flask
 
 # Implementation
+## For firebase connection refer Pyrebase documentation
+https://github.com/thisbejim/Pyrebase
 
 1. Run the download_attendance.py to download the necessary files.
 2. Under packages in facenet.py file line 374 and point it to the model folder.
