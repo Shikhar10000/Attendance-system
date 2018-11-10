@@ -27,4 +27,5 @@ https://github.com/thisbejim/Pyrebase
 3. Then use any of the webcam / image/ video to run the program.
 
 for deployment refer the deployment documentation on floyd hub.
+
 https://docs.floydhub.com/guides/serving/
